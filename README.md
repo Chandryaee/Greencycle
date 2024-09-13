@@ -1,2 +1,2 @@
-# Greencycle
-Self from from a learning educational website
+# Greencycles
+Self fprject for analysing a movie rental website
